@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/manuquirozy/xbee-node#readme",
   "dependencies": {
+    "serialport": "^9.2.4",
     "xbee-api": "^0.6.0"
   }
 }
